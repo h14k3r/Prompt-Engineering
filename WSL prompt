@@ -1,0 +1,29 @@
+**Prompt:**
+
+I need step-by-step guidance to install WSL (Windows Subsystem for Linux) on Windows 11 Pro. Provide a detailed walkthrough including the following:
+
+1. **WSL installation process**:
+   - Enable the necessary features (WSL and Virtual Machine Platform).
+   - Installing a Linux distribution via the Microsoft Store.
+   - Running and updating the distribution once installed.
+   - Switching between WSL 1 and WSL 2 if needed.
+   - Setting WSL 2 as the default version.
+
+2. **Predicted questions I might ask:**
+   - What prerequisites or system requirements are necessary for WSL on Windows 11 Pro?
+   - How can I confirm that my system supports WSL 2, specifically if I need to enable virtualization in the BIOS?
+   - What Linux distributions are recommended for WSL, and how do I choose the best one?
+   - Can I run Docker with WSL 2, and how do I install it?
+   - What commands are available to check the version of WSL I’m using and switch between versions?
+   - What are the advantages and disadvantages of WSL 1 vs. WSL 2?
+   - What should I do if I encounter errors during installation, such as "The requested operation requires elevation" or virtualization issues?
+   - How can I manage multiple distributions in WSL?
+   - How do I uninstall or reset a Linux distribution if needed?
+   - Can I integrate WSL with Visual Studio Code for development?
+
+3. **Additional help:**
+   - Optimizing WSL performance, such as adjusting memory or CPU usage.
+   - Tips on using the WSL command-line tools effectively.
+   - Any common troubleshooting tips for frequent issues during the WSL setup or after installing a Linux distribution.
+
+Provide clear and concise answers and explanations for each step and predicted question, with references to official documentation if available. Additionally, include any commands or terminal outputs that may be helpful during the installation and configuration process.
